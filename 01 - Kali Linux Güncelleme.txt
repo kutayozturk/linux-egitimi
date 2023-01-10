@@ -2,6 +2,7 @@ Kali Linux Güncelleme
 
 Uygulama Güncelleme
 	Terminal ekranını açıyoruz ve "sudo su" komutu ile root oluyoruz.
+	2 defa `cd..` komutu ile geri çıkıyoruz.
 	cd/etc/apt komutu ile dizine geçiş yapıyoruz
 	ls komutu ile dizisini listeliyoruz
 	mouepad source.list komutu ile dosyayı açıyoruz.
