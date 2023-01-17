@@ -20,3 +20,12 @@ Eğer hata alırsanız
 		
 ### Sistem Güncelleme
 	`sudo apt upgrade`
+
+### Sistem Tam Güncelleme Komutu
+Terminalda root oluyoruz
+
+	`sudo su`
+	
+daha sonra
+
+	`apt-get update && apt-get -y full-upgrade`
