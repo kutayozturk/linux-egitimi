@@ -20,7 +20,7 @@
 | clear	  | Kullanıcının terminal ekranını temizlemek içni kullanılır. |
 | mkdir	  | Yeni klasör oluşturmayı sağlayan komuttur. |
 | rm -rf	| Dosyaları ve klasörleri zorla silen komuttur. Dizin dolu olsada olmasada silme işlemini gerçekleştirir. |
-| rmdir	  | için boş olan dosyaları silmeyi sağlayan komuttur. |
+| rmdir	  | içi boş olan dosyaları silmeyi sağlayan komuttur. |
 | find	  | Dosya aramak için kullanılan komuttur. |
 | history	| Kullanıcının terminal ekranında önceden girdiği komutları kronolojik olarak listeyen komuttur. |
 | man		  | Belli bir komut hakkında detaylı bilgi veren komuttur. Çıkmak için Q tuşu kullanılmalıdır. |
