@@ -1,4 +1,4 @@
-# Kali Linux Eğitimi
+# Linux Eğitimi
 
 ## Sanallaştırma Nedir?
 
