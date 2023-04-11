@@ -1,4 +1,4 @@
-# LINUX Disk Yönetimi ve Dosya Sistemi
+# Linux Disk Yönetimi ve Dosya Sistemi
 
 Linux işletim sisteminde hem taşınır hem de sabit diskler /dev dizini altında bulunur. 
 
