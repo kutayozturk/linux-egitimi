@@ -1,4 +1,3 @@
-# Terminal 101
 ## Linux
 Linux işletim sistemi iki temel birimden oluşur. **Kernel** (çekirdek) ve **Shell** (Kabuk) 
 #### Kernel ***(Çekirdek)***
