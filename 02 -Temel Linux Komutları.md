@@ -1,7 +1,7 @@
 # Temel Linux Komutları
 | | |
 |---|:---:|
-| sudo su	| Kullanıcıya kendi parolasıyla root kullanıcısı olam yetkisini veren komuttur. |
+| sudo su	| Kullanıcıya kendi parolasıyla root kullanıcısı olma yetkisini veren komuttur. |
 | pwd		  | Kullanıcının hangi dizinde olduğunu görmek için kullanılan komuttur. |
 | cd		  | Kullanıcının dizinler arasında geçiş yapmasını sağlayan komuttur. |
 | cd .. 	| Kullanınıcın bir üst dizine geçmesini sağlayan komuttur. |
