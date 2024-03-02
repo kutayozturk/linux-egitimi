@@ -6,7 +6,7 @@ Bir linux işletim sisteminin ana bileşenidir ve bilgisayarın donanımı ile i
 Kullanıcı ile işletim sistemi çekirdeği arasında arayüz sağlayan bir programdır.
 
 ## Linux Shell Görevi
-Bir işletim sistemi, kullanıcı oturum, terminal veya konsol penceresi açtığında her kullanıcı için bir kabuk başlatır. Her Shell'in kendine özgğ tanımlanmış komutları,
+Bir işletim sistemi, kullanıcı oturum, terminal veya konsol penceresi açtığında her kullanıcı için bir kabuk başlatır. Her Shell'in kendine özgü tanımlanmış komutları,
 fonksiyonları, anahtar kelimeleri vardır. Kullanıcılar oturum açtıktan sonra yetkilerine göre bu komut ve fonksiyonlara erişim hakkına sahiptir.
 
 ## Terminal Nedir?
